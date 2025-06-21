@@ -1,4 +1,4 @@
-# -Website-on-AWS-EC2
+# Website on AWS EC2
 Deployed a static website using HTML/CSS on an Amazon EC2 Linux instance as part of a Cloud Computing internship. Configured Apache server, connected via SSH, and hosted the project live on the internet.
 # 🌐 AWS EC2 Website Deployment — Internship Project
 
@@ -31,10 +31,12 @@ This website was created and hosted as part of my Cloud Computing internship to 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Homepage](https://github.com/user-attachments/assets/306213d0-5085-40c7-8f44-274cd0fa66df)
+![Homepage](https://github.com/user-attachments/assets/aa06c143-f7a0-428e-be19-0f46cf134477)
+
 
 ### 👤 About Page
 ![About](https://github.com/user-attachments/assets/afa1b95a-3825-45e7-96f6-e0d7661796ae)
+
 
 ### 📬 Contact Page
 ![Contact](https://github.com/user-attachments/assets/d6febb32-a710-4ce1-8378-add03592393a)
